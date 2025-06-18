@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kkuhn1994.github.io/TeaShopHHN/sitemap.xml
